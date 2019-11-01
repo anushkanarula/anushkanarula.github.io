@@ -1,0 +1,36 @@
+[33mcommit 09035f60a69fa3a186f4d8c736c3992577766b95[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 93935ee 56939e6
+Author: kautukkundan <kautukkundan@gmail.com>
+Date:   Sat Aug 31 10:22:49 2019 +0530
+
+    Merge branch 'master' of https://github.com/SHEROESinTech/Introduction-to-Git-GitHub-hands-on
+
+[33mcommit 93935eea23896fc04e29c5e28f54295c8ffa7096[m
+Author: kautukkundan <kautukkundan@gmail.com>
+Date:   Sat Aug 31 02:21:04 2019 +0530
+
+    completed for now
+
+[33mcommit be6334d222d91e7c5ad82f93624731c3c37fcfb8[m
+Author: kautukkundan <kautukkundan@gmail.com>
+Date:   Sat Aug 31 01:35:17 2019 +0530
+
+    Added more details
+
+[33mcommit 4daac900c9629796f3f9681479d524af1d9eecd1[m
+Author: kautukkundan <kautukkundan@gmail.com>
+Date:   Sat Aug 31 01:22:18 2019 +0530
+
+    Made UI Layout - added education block
+
+[33mcommit 56939e67183436ddb2716b21172dd42b624c7891[m
+Author: SHEROES in Tech <47546608+SHEROESinTech@users.noreply.github.com>
+Date:   Fri Aug 30 22:48:37 2019 +0530
+
+    Initial commit
+
+[33mcommit d2cc207e0e18841ad2c7828f5a6170903c669c42[m
+Author: kautukkundan <kautukkundan@gmail.com>
+Date:   Fri Aug 30 21:00:58 2019 +0530
+
+    initial setup - Hello World
